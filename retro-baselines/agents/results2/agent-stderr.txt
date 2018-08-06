@@ -1,0 +1,17 @@
+2018-05-31 17:55:31.818517: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2018-05-31 17:55:31.819001: E tensorflow/stream_executor/cuda/cuda_driver.cc:406] failed call to cuInit: CUresult(-1)
+2018-05-31 17:55:31.819058: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:145] kernel driver does not appear to be running on this host (b6d8a03e2878): /proc/driver/nvidia/version does not exist
+WARNING:tensorflow:From /root/venv/lib/python3.5/site-packages/baselines/common/distributions.py:148: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See @{tf.nn.softmax_cross_entropy_with_logits_v2}.
+
+WARNING:tensorflow:From /root/venv/lib/python3.5/site-packages/baselines/common/distributions.py:159: calling reduce_max (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /root/venv/lib/python3.5/site-packages/baselines/common/distributions.py:161: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead

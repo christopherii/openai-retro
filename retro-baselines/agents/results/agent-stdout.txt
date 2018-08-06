@@ -1,0 +1,240 @@
+0
+replayed best with reward 649.768123
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+backtracking due to negative reward: -18.971333
+1
+1
+1
+backtracking due to negative reward: -10.434234
+1
+1
+backtracking due to negative reward: -9.485666
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+replayed best with reward 3649.135741
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+backtracking due to negative reward: -13.279935
+2
+2
+2
+backtracking due to negative reward: -94.856661
+2
+2
+backtracking due to negative reward: -62.605399
+2
+2
+2
+2
+2
+2
+replayed best with reward 5108.031181
+replayed best with reward 9769.944438
+replayed best with reward 4977.129007
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+backtracking due to negative reward: -29.405566
+5
+5
+5
+5
+backtracking due to negative reward: -21.817033
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+replayed best with reward 9856.388889
+replayed best with reward 3638.701512
+7
+7
+7
+7
+7
+7
+7
+7
+7
+backtracking due to negative reward: -42.685499
+7
+7
+7
+backtracking due to negative reward: -10.434233
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+replayed best with reward 9828.222222
+8
+replayed best with reward 9850.388856
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+backtracking due to negative reward: -36.045530
+9
+9
+backtracking due to negative reward: -41.736931
+9
+9
+9
+9
+9
+backtracking due to negative reward: -17.074198
+9
+9
+9
+9
+9
+replayed best with reward 9838.444383
+replayed best with reward 9839.277754
+replayed best with reward 9846.944410
+12
+replayed best with reward 1032.040470
+13
+13
+13
+13
+13
+13
+13
+backtracking due to negative reward: -3.794265
+13
+13
+13
+13
+13
+13
+replayed best with reward 3635.855805
+14
+14
+14
+14
+14
+14
+14
+14
+14
+backtracking due to negative reward: -69.245365
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+replayed best with reward 3646.290040
+15
+15
+15
+15
+15
+backtracking due to negative reward: -36.994098
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+replayed best with reward 3646.290034
+16
+replayed best with reward 9815.833302
+replayed best with reward 9851.499965
+replayed best with reward 9838.499946
+19
+replayed best with reward 9838.444382
+20
+20
+replayed best with reward 9838.777749
+21
+7047.424200341815
+<TrackedEnv<RemoteEnv instance>>
